@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This project implements a novel deep learning architecture for spatiotemporal data prediction. The Inter-Modal Multi-Head Attention-based Spatiotemporal Deep Fusion Network (IMMAF-SDFN) effectively captures complex spatiotemporal patterns in time-series data, focusing on applications in environmental monitoring, energy systems, and industrial processes.
-
-The architecture combines Spatial-Temporal Graph Convolutional Networks (STGCN) with various recurrent neural networks (LSTM, BiLSTM, GRU) to model spatial dependencies alongside temporal dynamics in multivariate time series data.
+This project implements a novel deep learning architecture for spatiotemporal data prediction. The Inter-Modal Multi-Head Attention-based Spatiotemporal Deep Fusion Network (IMMAF) effectively captures complex spatiotemporal patterns in time-series data, focusing on applications in environmental monitoring, energy systems, and industrial processes.
 
 ## Key Features
 
